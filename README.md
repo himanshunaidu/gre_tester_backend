@@ -2,8 +2,7 @@
 Node js Backend for an application to test GRE Vocabulary
 
 ## Frontend
-Refer to https://github.com/himanshunaidu/gre_tester. 
-(Frontend will be added to this repository soon)
+Refer to https://github.com/himanshunaidu/gre_tester.
 
 ## Database
 (Main schema of the DB will be added here)
